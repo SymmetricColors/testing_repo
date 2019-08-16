@@ -1,2 +1,1 @@
-# ai-for-trading
-AI for trading
+testing tepo
